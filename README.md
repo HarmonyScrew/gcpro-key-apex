@@ -40,4 +40,4 @@ Homepage: https://gcpro-key-apex.softyx.xyz
 ## Features
 - ✅ **Device Management:** Advanced tools for app installation and system configuration.
 - ✅ **Compatibility:** Support for the latest firmware versions and device models.
-- ✅ **User-Friendly Interface:** Simple setup process with guided step-by-step instructions.        
+- ✅ **User-Friendly Interface:** Simple setup process with guided step-by-step instructions.         
